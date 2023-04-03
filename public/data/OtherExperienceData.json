@@ -1,0 +1,27 @@
+[
+  {
+    "period": "2020.03. - 현재",
+    "otherExpImg": "./images/other_exp_01.png",
+    "otherExpTitle": "개발 블로그 운영",
+
+    "linkInfo": {
+      "linkText": "Hello, Dan:d World!",
+      "linkURL": "https://kangdanne.tistory.com/"
+    },
+    "mainDiscription": "TIL, 알고리즘, 개발 공부를하며 경험한 시행착오들을 기록하고 있습니다.",
+    "subDiscription": "스킨은 Tistroy에서 제공되는 테마를 커스텀하여 적용했습니다."
+  },
+  {
+    "period": "2020.12.",
+    "otherExpImg": "./images/other_exp_02.png",
+    "otherExpTitle": "도서 베타테스트 ",
+    "mainDiscription": "도서 『HTML+CSS+자바스크립트 웹 표준의 정석』, 2021(출판:이지스퍼블리싱, 저자: 고경희)",
+    "subDiscription": "CSS + JavaScript 파트의 베타버전 원고 검수를 진행했습니다."
+  },
+  {
+    "period": "2019.09.",
+    "otherExpImg": "./images/other_exp_03.png",
+    "otherExpTitle": "네이버 『마루프로젝트』폰트 사용성 조사 오프라인 참여",
+    "mainDiscription": "PC, 테블릿, 모바일 등 디지털 매체를 통해 다양한 폰트를 확인하며 각 폰트의 사용성에 대한 의견서 작성과 인터뷰를 진행했습니다."
+  }
+]

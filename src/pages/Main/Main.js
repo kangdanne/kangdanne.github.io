@@ -6,7 +6,7 @@ import SubSkill from './SubSkill';
 import LearningLog from './LearningLog';
 import Project from './Project';
 import WorkExperiences from './WorkExperiences/WorkExperiences';
-import OtherExperiences from './OtherExperiences/OtherExperiences';
+import OtherExperience from './OtherExperience';
 import Educations from './Educations/Educations';
 
 export default function Main() {
@@ -18,7 +18,7 @@ export default function Main() {
       <LearningLog />
       <Project />
       <WorkExperiences />
-      <OtherExperiences />
+      <OtherExperience />
       <Educations />
     </MainWrap>
   );
